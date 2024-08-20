@@ -1,2 +1,2 @@
-# ImTerrible
- what did you think :/
+# Deprecated
+ deprecated
